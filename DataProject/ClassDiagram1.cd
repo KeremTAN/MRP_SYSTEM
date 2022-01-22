@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DataProject.Blade_019">
+    <Position X="9.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iAAAAgAAAAAACgABABAAwAAAQCACCAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Blade_019.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DataProject.Bracelet_11495">
+    <Position X="2.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iAAAAgAAAAACCgABABAAwAAAQCACCAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Bracelet_11495.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DataProject.Frm_inventory">
+    <Position X="5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAACACAIAAIECCDMAgAGAAKSBIIAwEAQEKAEAAE=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,80 @@
+C:\Users\kerem\Desktop\DataProject\DataProject\bin\Debug\DataProject.exe.config
+C:\Users\kerem\Desktop\DataProject\DataProject\bin\Debug\DataProject.exe
+C:\Users\kerem\Desktop\DataProject\DataProject\bin\Debug\DataProject.pdb
+C:\Users\kerem\Desktop\DataProject\DataProject\obj\Debug\DataProject.Properties.Resources.resources
+C:\Users\kerem\Desktop\DataProject\DataProject\obj\Debug\DataProject.csproj.GenerateResource.Cache
+C:\Users\kerem\Desktop\DataProject\DataProject\obj\Debug\DataProject.exe
+C:\Users\kerem\Desktop\DataProject\DataProject\obj\Debug\DataProject.pdb
+C:\Users\kerem\Desktop\DataProject\DataProject\obj\Debug\DataProject.Frm_inventory.resources
+C:\Users\kerem\Desktop\DataProject\DataProject\bin\Debug\DevExpress.Data.v15.2.xml
+C:\Users\kerem\Desktop\DataProject\DataProject\bin\Debug\DevExpress.Printing.v15.2.Core.xml
+C:\Users\kerem\Desktop\DataProject\DataProject\bin\Debug\DevExpress.Utils.v15.2.xml
+C:\Users\kerem\Desktop\DataProject\DataProject\bin\Debug\de\DevExpress.Data.v15.2.resources.dll
+C:\Users\kerem\Desktop\DataProject\DataProject\bin\Debug\es\DevExpress.Data.v15.2.resources.dll
+C:\Users\kerem\Desktop\DataProject\DataProject\bin\Debug\ja\DevExpress.Data.v15.2.resources.dll
+C:\Users\kerem\Desktop\DataProject\DataProject\bin\Debug\ru\DevExpress.Data.v15.2.resources.dll
+C:\Users\kerem\Desktop\DataProject\DataProject\bin\Debug\de\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\kerem\Desktop\DataProject\DataProject\bin\Debug\es\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\kerem\Desktop\DataProject\DataProject\bin\Debug\ja\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\kerem\Desktop\DataProject\DataProject\bin\Debug\ru\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\kerem\Desktop\DataProject\DataProject\bin\Debug\de\DevExpress.Utils.v15.2.resources.dll
+C:\Users\kerem\Desktop\DataProject\DataProject\bin\Debug\es\DevExpress.Utils.v15.2.resources.dll
+C:\Users\kerem\Desktop\DataProject\DataProject\bin\Debug\ja\DevExpress.Utils.v15.2.resources.dll
+C:\Users\kerem\Desktop\DataProject\DataProject\bin\Debug\ru\DevExpress.Utils.v15.2.resources.dll
+C:\Users\kerem\Desktop\Pdf-Belgeler\2-1 homework\DataProject\DataProject\bin\Debug\DataProject.exe.config
+C:\Users\kerem\Desktop\Pdf-Belgeler\2-1 homework\DataProject\DataProject\obj\Debug\DataProject.exe
+C:\Users\kerem\Desktop\Pdf-Belgeler\2-1 homework\DataProject\DataProject\obj\Debug\DataProject.pdb
+C:\Users\kerem\Desktop\Pdf-Belgeler\2-1 homework\DataProject\DataProject\bin\Debug\DataProject.exe
+C:\Users\kerem\Desktop\Pdf-Belgeler\2-1 homework\DataProject\DataProject\bin\Debug\DataProject.pdb
+C:\Users\kerem\Desktop\Pdf-Belgeler\2-1 homework\DataProject\DataProject\bin\Debug\DevExpress.Data.v15.2.dll
+C:\Users\kerem\Desktop\Pdf-Belgeler\2-1 homework\DataProject\DataProject\bin\Debug\DevExpress.Printing.v15.2.Core.dll
+C:\Users\kerem\Desktop\Pdf-Belgeler\2-1 homework\DataProject\DataProject\bin\Debug\DevExpress.Utils.v15.2.dll
+C:\Users\kerem\Desktop\Pdf-Belgeler\2-1 homework\DataProject\DataProject\bin\Debug\DevExpress.Data.v15.2.xml
+C:\Users\kerem\Desktop\Pdf-Belgeler\2-1 homework\DataProject\DataProject\bin\Debug\DevExpress.Printing.v15.2.Core.xml
+C:\Users\kerem\Desktop\Pdf-Belgeler\2-1 homework\DataProject\DataProject\bin\Debug\DevExpress.Utils.v15.2.xml
+C:\Users\kerem\Desktop\Pdf-Belgeler\2-1 homework\DataProject\DataProject\bin\Debug\de\DevExpress.Data.v15.2.resources.dll
+C:\Users\kerem\Desktop\Pdf-Belgeler\2-1 homework\DataProject\DataProject\bin\Debug\es\DevExpress.Data.v15.2.resources.dll
+C:\Users\kerem\Desktop\Pdf-Belgeler\2-1 homework\DataProject\DataProject\bin\Debug\ja\DevExpress.Data.v15.2.resources.dll
+C:\Users\kerem\Desktop\Pdf-Belgeler\2-1 homework\DataProject\DataProject\bin\Debug\ru\DevExpress.Data.v15.2.resources.dll
+C:\Users\kerem\Desktop\Pdf-Belgeler\2-1 homework\DataProject\DataProject\bin\Debug\de\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\kerem\Desktop\Pdf-Belgeler\2-1 homework\DataProject\DataProject\bin\Debug\es\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\kerem\Desktop\Pdf-Belgeler\2-1 homework\DataProject\DataProject\bin\Debug\ja\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\kerem\Desktop\Pdf-Belgeler\2-1 homework\DataProject\DataProject\bin\Debug\ru\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\kerem\Desktop\Pdf-Belgeler\2-1 homework\DataProject\DataProject\bin\Debug\de\DevExpress.Utils.v15.2.resources.dll
+C:\Users\kerem\Desktop\Pdf-Belgeler\2-1 homework\DataProject\DataProject\bin\Debug\es\DevExpress.Utils.v15.2.resources.dll
+C:\Users\kerem\Desktop\Pdf-Belgeler\2-1 homework\DataProject\DataProject\bin\Debug\ja\DevExpress.Utils.v15.2.resources.dll
+C:\Users\kerem\Desktop\Pdf-Belgeler\2-1 homework\DataProject\DataProject\bin\Debug\ru\DevExpress.Utils.v15.2.resources.dll
+C:\Users\kerem\Desktop\Pdf-Belgeler\2-1 homework\DataProject\DataProject\obj\Debug\DataProject.csprojResolveAssemblyReference.cache
+C:\Users\kerem\Desktop\Pdf-Belgeler\2-1 homework\DataProject\DataProject\obj\Debug\DataProject.Frm_inventory.resources
+C:\Users\kerem\Desktop\Pdf-Belgeler\2-1 homework\DataProject\DataProject\obj\Debug\DataProject.Properties.Resources.resources
+C:\Users\kerem\Desktop\Pdf-Belgeler\2-1 homework\DataProject\DataProject\obj\Debug\DataProject.csproj.GenerateResource.Cache
+C:\Users\kerem\Desktop\Pdf-Belgeler\Dersler\2-1 homework\Data\DataProject\DataProject\bin\Debug\DataProject.exe.config
+C:\Users\kerem\Desktop\Pdf-Belgeler\Dersler\2-1 homework\Data\DataProject\DataProject\bin\Debug\DataProject.exe
+C:\Users\kerem\Desktop\Pdf-Belgeler\Dersler\2-1 homework\Data\DataProject\DataProject\bin\Debug\DevExpress.Data.v15.2.dll
+C:\Users\kerem\Desktop\Pdf-Belgeler\Dersler\2-1 homework\Data\DataProject\DataProject\bin\Debug\DevExpress.Printing.v15.2.Core.dll
+C:\Users\kerem\Desktop\Pdf-Belgeler\Dersler\2-1 homework\Data\DataProject\DataProject\bin\Debug\DevExpress.Utils.v15.2.dll
+C:\Users\kerem\Desktop\Pdf-Belgeler\Dersler\2-1 homework\Data\DataProject\DataProject\bin\Debug\DevExpress.Data.v15.2.xml
+C:\Users\kerem\Desktop\Pdf-Belgeler\Dersler\2-1 homework\Data\DataProject\DataProject\bin\Debug\DevExpress.Printing.v15.2.Core.xml
+C:\Users\kerem\Desktop\Pdf-Belgeler\Dersler\2-1 homework\Data\DataProject\DataProject\bin\Debug\DevExpress.Utils.v15.2.xml
+C:\Users\kerem\Desktop\Pdf-Belgeler\Dersler\2-1 homework\Data\DataProject\DataProject\bin\Debug\de\DevExpress.Data.v15.2.resources.dll
+C:\Users\kerem\Desktop\Pdf-Belgeler\Dersler\2-1 homework\Data\DataProject\DataProject\bin\Debug\es\DevExpress.Data.v15.2.resources.dll
+C:\Users\kerem\Desktop\Pdf-Belgeler\Dersler\2-1 homework\Data\DataProject\DataProject\bin\Debug\ja\DevExpress.Data.v15.2.resources.dll
+C:\Users\kerem\Desktop\Pdf-Belgeler\Dersler\2-1 homework\Data\DataProject\DataProject\bin\Debug\ru\DevExpress.Data.v15.2.resources.dll
+C:\Users\kerem\Desktop\Pdf-Belgeler\Dersler\2-1 homework\Data\DataProject\DataProject\bin\Debug\de\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\kerem\Desktop\Pdf-Belgeler\Dersler\2-1 homework\Data\DataProject\DataProject\bin\Debug\es\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\kerem\Desktop\Pdf-Belgeler\Dersler\2-1 homework\Data\DataProject\DataProject\bin\Debug\ja\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\kerem\Desktop\Pdf-Belgeler\Dersler\2-1 homework\Data\DataProject\DataProject\bin\Debug\ru\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\kerem\Desktop\Pdf-Belgeler\Dersler\2-1 homework\Data\DataProject\DataProject\bin\Debug\de\DevExpress.Utils.v15.2.resources.dll
+C:\Users\kerem\Desktop\Pdf-Belgeler\Dersler\2-1 homework\Data\DataProject\DataProject\bin\Debug\es\DevExpress.Utils.v15.2.resources.dll
+C:\Users\kerem\Desktop\Pdf-Belgeler\Dersler\2-1 homework\Data\DataProject\DataProject\bin\Debug\ja\DevExpress.Utils.v15.2.resources.dll
+C:\Users\kerem\Desktop\Pdf-Belgeler\Dersler\2-1 homework\Data\DataProject\DataProject\bin\Debug\ru\DevExpress.Utils.v15.2.resources.dll
+C:\Users\kerem\Desktop\Pdf-Belgeler\Dersler\2-1 homework\Data\DataProject\DataProject\obj\Debug\DataProject.csprojAssemblyReference.cache
+C:\Users\kerem\Desktop\Pdf-Belgeler\Dersler\2-1 homework\Data\DataProject\DataProject\obj\Debug\DataProject.Frm_inventory.resources
+C:\Users\kerem\Desktop\Pdf-Belgeler\Dersler\2-1 homework\Data\DataProject\DataProject\obj\Debug\DataProject.Properties.Resources.resources
+C:\Users\kerem\Desktop\Pdf-Belgeler\Dersler\2-1 homework\Data\DataProject\DataProject\obj\Debug\DataProject.csproj.GenerateResource.cache
+C:\Users\kerem\Desktop\Pdf-Belgeler\Dersler\2-1 homework\Data\DataProject\DataProject\obj\Debug\DataProject.csproj.CoreCompileInputs.cache
+C:\Users\kerem\Desktop\Pdf-Belgeler\Dersler\2-1 homework\Data\DataProject\DataProject\obj\Debug\DataProject.csproj.CopyComplete
+C:\Users\kerem\Desktop\Pdf-Belgeler\Dersler\2-1 homework\Data\DataProject\DataProject\obj\Debug\DataProject.exe
+C:\Users\kerem\Desktop\Pdf-Belgeler\Dersler\2-1 homework\Data\DataProject\DataProject\obj\Debug\DataProject.pdb
+C:\Users\kerem\Desktop\DataProject\DataProject\obj\Debug\DataProject.csproj.AssemblyReference.cache
+C:\Users\kerem\Desktop\DataProject\DataProject\obj\Debug\DataProject.csproj.CoreCompileInputs.cache
