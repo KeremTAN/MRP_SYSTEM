@@ -8,6 +8,7 @@ Some items may require a certain amount of other items to be produced. If we nee
 As can be seen here, since item 1605 has lot size rule = L4L, we can place as many sales orders as we want.
 ###### 
 ![UML](https://github.com/KeremTAN/MRP_SYSTEM/blob/master/img/i2.png)
+###### 
 ![UML](https://github.com/KeremTAN/MRP_SYSTEM/blob/master/img/i3.png)
 ![UML](https://github.com/KeremTAN/MRP_SYSTEM/blob/master/img/i4.png)
 ![UML](https://github.com/KeremTAN/MRP_SYSTEM/blob/master/img/i5.png)
